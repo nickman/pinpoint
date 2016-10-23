@@ -46,6 +46,7 @@
         <module>cxf</module>
         <module>hystrix</module>
         <module>jboss</module>
+        <module>hikari</module>
     </modules>
 
     <dependencies>
